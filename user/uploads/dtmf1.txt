@@ -1,0 +1,82 @@
+              =================================================
+              =================================================
+              =================================================
+              =============Phreaker Technologies===============
+              ===================presents======================
+              =================================================
+              ===========-DTMF Definition and List-============
+              =================================================
+              ===================Written By====================
+              ===================-obituary-====================
+              =================================================
+              =================================================
+              =================================================
+
+
+
+
+===============================================================
+	This text file is really pretty straight 
+	forward and dosen't really need any intro
+	to it.  It contains the definition of a 
+	DTMF and has a list of all the DTMFs.
+			-obituary-
+===============================================================
+
+
+
+=======================
+DTMF Definition
+=======================
+
+
+DTMF stands for Dual Tone Multi Frequency. These are the tones you get when
+you press a key on your telephone touchpad. The tone of the button is the
+sum of the column and row tones. The ABCD keys do not exist on standard
+telephones.
+
+         1209 1336 1477 1633
+
+        697   1    2    3    A
+
+        770   4    5    6    B
+
+        852   7    8    9    C
+
+        941   *    0    #    D
+
+
+
+
+
+=================================================
+What are the frequencies of the telephone tones?
+=================================================
+
+
+
+Type                Hz          On      Off
+---------------------------------------------------------------------
+Dial Tone         350 & 400     ---     ---
+Busy Signal       480 & 620     0.5     0.5
+Toll Congestion   480 & 620     0.2     0.3
+Ringback (Normal) 440 & 480     2.0     4.0
+Ringback (PBX)    440 & 480     1.5     4.5
+Reorder (Local)   480 & 620     3.0     2.0
+Invalid Number    200 & 400
+Hang Up Warning 1400 & 2060     0.1     0.1
+Hang Up         2450 & 2600     ---     ---
+  
+  
+
+
+
+  
+
+============================================================
+	You can contact me at:  obituary@phreaker.net
+	Make sure you all check out my archive page!
+		http://ob1tuary.hypermart.net
+============================================================
+
+

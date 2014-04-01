@@ -1,0 +1,37 @@
+
+body {
+	font-family: helvetica;		}
+
+
+.table {
+	background-color: #E0E0EB;
+	border: 0px solid #0B198C;
+	font-size: small;		}
+
+
+.td1 {
+	padding: 5;
+	background-color: #DBEDFF;
+	color: #000000;
+	vertical-align: center;		}
+
+
+.td2 {
+	padding: 5;
+	background-color: #F5F5FF;
+	color: #000000;
+	vertical-align: center;		}
+
+
+a{
+	color: #000000;
+	text-decoration:none;
+	font-family: helvetica; 	}
+
+
+h1{
+	color: #000000;
+	font-size:x-large;
+	text-decoration:none;
+	font-family: helvetica;		}
+

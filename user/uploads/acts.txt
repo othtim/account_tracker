@@ -1,0 +1,48 @@
+
+
+The State of The Automated Coin Toll Service in Canada
+unity 2003
+
+
+ACTS: Automated Coin Toll Service. ACTS is the system by which Ma Bell determines how much 
+money has been deposited into a payphone. ACTS replaced operators, and created autonomy in the 
+revenue collection systems for payphones. ACTS currently works on a DTMF (Dual-Tone-Multi-
+Frequency) system, a tone comprised of 2200Hz + 1700Hz. ACTS is currently used to determine 
+charges and monitor long-distance calls through the AT&T system. Apparently, AT&T has filed 
+with the FCC to discontinue sent-paid toll services. This would spell the end of ACTS.
+
+Now, Telus has been phasing out sent-paid toll service for a while now, slowly replacing 
+coin-first long-distance payphones with calling-card-only payphones. And who wouldnt want to? 
+Calling cards are a much safer and more fraud-resistant method of charging long-distance calls. 
+In the 780 area code I have noticed only a few new phones coming in with no long-distance 
+coin-first calling abilites. Older Nortel (Quortech?) Centurions are still redbox-able, though.
+But those too are being phased out, darn those Telus boys! Its really a love-hate relationship. 
+Word has it that Telus is planning to completely phase out coin based long distance calling 
+within the next few years, so enjoy it while you can! By the way, 2200Hz + 1700Hz DTMF is 
+equivalent to a single tone 2200Hz up north, here in Canada.
+
+ACTS-equipped payphones can be fooled by redboxing quite easily. For those of you who arent 
+aware, a red box is any device that can play back the tones that are used by tone-signalling 
+pay telephones to identify that money has been put in the coin slot. Basically, at the heart, 
+a red box is any device that is capable of creating or playing back a 2200Hz + 1700Hz DTMF tone. 
+
+You can make a red box quite easily using a digital, tapeless recorder. Such a recorder can be 
+purchased at a Radio Shack for probably between 10 and 20 dollars. Simply record the 2200Hz + 
+1700Hz tone into the digital recorder, and you can play it back into the mouthpeice of the 
+payphone to get your "cash". This isnt a tutorial on how to make a red box though, so thats 
+enough of that.
+
+Anyways, ACTS is used on Telus's older Nortel Centurion payphones to determine the pricing for 
+long-distance calls. When you dial a long distance call, an automated operator comes in on the 
+line, saying something along the lines of, "Getting Rates, Please Wait...". So you wait. 
+Eventually the automated operator comes back on the line, and will ask you to deposit a certian 
+amount of money. At this time, you can use your red box to fool the payphone into thinking that 
+you have already deposited your money. As the operator asks for money, you play your tones into 
+the phone, and voila! Free long distance calls. Every so often the operator will come back on, 
+into the conversation, and will ask you to insert more money, when this happens, just play 
+your tones again.
+
+Its suprising that a red box-able service such as ACTS has survived as long as it has, but 
+enjoy it while it lasts! Once Telus phases it out, there will be no more ACTS.
+
+

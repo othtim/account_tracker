@@ -1,0 +1,258 @@
+Unity’s 1-800 Number Suffix Hand Skan
+May not work a different area than the one skanned in.
+Skan Range:	0000 - 1000	(ongoing)
+Prefix:		404
+Time Zone:	Mountain Standard Time
+Note: Entries not listed but *should* be in between the listed numbers were not available in the area these numbers were skanned in, or the call could not be completed as dialed, or possibly a human operator picked up the phone. 
+
+
+Dates:
+    November 21, 0-100 skanned
+    November 22, 101-250 skanned
+    November 23, 151-300 skanned
+    December 11, 300-500 skanned
+
+
+
+
+--------
+1-100
+--------
+Time: After-Hours
+
+1 800 404 0001	“Hello?”
+1 800 404 0002	Crown Technology
+1 800 404 0003	Taylor Packaging
+1 800 404 0007	Busy Signal
+1 800 404 0008	“Hello?”
+1 800 404 0009	Santa Maria Times Newspaper
+1 800 404 0010	Cool Tone + “The Number You Dialed, 732 360 0300 Has Been Disconnected. “
+1 800 404 0012	“Please hold, while the next subscriber you are trying to reach is located. “
+1 800 404 0013	Busy Signal (and funny repeating noise) (then disconnect)
+1 800 404 0016	Doctors Assistance Voice Mailbox
+1 800 404 0017	Chet’s Cleaning
+1 800 404 0025	Unified Messaging/Fax Mailbox
+1 800 404 0028	“We are experiencing high call volume.”
+1 800 404 0031	AT&T Easy Reach 800
+1 800 404 0033	Busy Signal
+1 800 404 0036	Unified Messaging/Fax Mailbox
+1 800 404 0037	Service Suspended ‘Till Later
+1 800 404 0043	Disset Control
+1 800 404 0046	WorldCom Paging Service
+1 800 404 0057	Some Office
+1 800 404 0061	Some Company’s VMB
+1 800 404 0072	Sears Home Central
+1 800 404 0073	TsinCorp Elevator Service
+1 800 404 0076	Michelle’s Mailbox at Empire Office Machines
+1 800 404 0078	Global Crossing Service
+1 800 404 0081	Hallmark Business Greetings
+1 800 404 0082	“Welcome. Enter The Pin Number You Wish, Followed By The Pound Key. “
+1 800 404 0091	Application Center For Town And Country Access
+1 800 404 0092	Henderson, Cummingam, Messanger, Newman and Thomas VMB
+1 800 404 0093	AT&T Easy Reach 800
+1 800 404 0094	Some insurance guy
+1 800 404 0096	Some insurance guy 2
+
+
+
+
+
+
+----------
+101-200
+----------
+Time: Regular Business Hours
+
+1 800 404 0106	“Enter Telephone Number Or Numeric Message”
+1 800 404 0107	“Joe LaRosa”
+1 800 404 0110	Cool Bees In Background!
+1 800 404 0113	Global Crossing
+1 800 404 0117	Coldwell-Banker Real Estate And Mortgage (human op)
+1 800 404 0118	RSVP Line For Elizabeth Thomas’ Affair
+1 800 404 0122	Carrier
+1 800 404 0125	CDI
+1 800 404 0126	Some Funny Paging Service
+1 800 404 0127	Busy Signal
+1 800 404 0130	Funny Beeping…
+1 800 404 0138	“Please enter your four digit pin. If you would like to reach a long-distance operator please press 1.”
+1 800 404 0160	Vicky Vond’s VoiceMail.
+1 800 404 0161	David Walsh’s Extension At Walsh Insurance Group
+1 800 404 0165	Frontier Flex 800
+1 800 404 0168	Foundation Health Federal Services
+1 800 404 0171	AT&T Easy Reach 800
+1 800 404 0174	“This number is no longer in service.” + Hangup
+1 800 404 0175	CCS
+1 800 404 0176	Benificial
+1 800 404 0177	First Priority Travel
+1 800 404 0181	Dave With Happy Town Answering Machine
+1 800 404 0189	Answering Machine
+1 800 404 0192	AT&T Easy Reach 800
+1 800 404 0194	Afina Dev Solutions VMB
+1 800 404 0198 	AT&T Easy Reach 800
+1 800 404 0199	Lady’s Answering Machine
+
+
+----------
+201-300
+----------
+Time: After-Hours
+
+1 800 404 0214	Sprintnet VMB
+1 800 404 0218	AT&T Easy Reach 800
+1 800 404 0220	Insurance VMB
+1 800 404 0222	NSC Transport
+1 800 404 0223	AT&T Easy Reach 800
+1 800 404 0228	Hang Up
+1 800 404 0230	Pro Drivers VMB
+1 800 404 0231	Carrier
+1 800 404 0232	Carrier
+1 800 404 0237	Pro Drivers
+1 800 404 0239	Profina Dev VMB
+1 800 404 0240	Jerry Campbell
+1 800 404 0241	Answering Machine
+1 800 404 0243	Carrier
+1 800 404 0251	SkyTel Mailbox
+1 800 404 0254	SkyTel Mailbox
+1 800 404 0258	“Enter telephone number or numeric message.”
+1 800 404 0260	“Enter area code and telephone number or numeric message.”
+1 800 404 0265	Mailbox
+1 800 404 0266	FaxLine Pager
+1 800 404 0268	AT&T Easy Reach 800
+1 800 404 0270	Tims’ Answering Machine
+1 800 404 0271	“Enter telephone number or numeric message.”
+1 800 404 0272	Aarons’ Answering Machine
+1 800 404 0284	Kerrys’ Answering Machine
+1 800 404 0286	Hitler Bookorder
+1 800 404 0287	Vessel Assistance Association of Alberta
+1 800 404 0289	Cool VMB
+1 800 404 0291	AT&T Easy Reach 800
+1 800 404 0294	AT&T Easy Reach 800
+1 800 404 0296	“Enter PIN Number # you wish”
+
+
+
+----------
+301-400
+----------
+
+1 800 404 0305	Mailbox / Pager
+1 800 404 0306	SkyTel 2-Way Pager / Mailbox
+1 800 404 0307	AT&T Easy Reach 800
+1 800 404 0310	SkyTel 2-Way System
+1 800 404 0311	Jan Marks with 3M (press * to get to 3M main mailbox)
+1 800 404 0312	SkyTel 2-Way System
+1 800 404 0313	VMB -> cool!
+1 800 404 0314	SkyTel 2-Way System
+1 800 404 0315	Pager
+1 800 404 0317	Cool Beeping ( PBX? )
+1 800 404 0318	SkyTel Paging System
+1 800 404 0320	AT&T Easy Reach 800
+1 800 404 0323	Ad America
+1 800 404 0324	Pam Kaiser’s Pager
+1 800 404 0325	SkyTel Paging System
+1 800 404 0326	AT&T Easy Reach 800
+1 800 404 0329	“Welcome. Enter the PIN number you wish.”
+1 800 404 0336	A House.
+1 800 404 0337	Ed’s Transmission
+1 800 404 0339	Some Vacation VMB
+1 800 404 0340	“Enter the PIN # You Wish”
+1 800 404 0341	“Enter the PIN # You Wish”
+1 800 404 0342	Pager
+1 800 404 0345	“Enter Telephone Number of Numeric Message”
+1 800 404 0346	SkyTel 2-Way
+1 800 404 0349	AT&T Easy Reach 800
+1 800 404 0352	Pager
+1 800 404 0357	VMB
+1 800 404 0358	AT&T Easy Reach 800
+1 800 404 0362	Pager
+1 800 404 0365	AT&T Easy Reach 800
+1 800 404 0366	JMV Associates Operator
+1 800 404 0370	SkyTel 2-Way
+1 800 404 0372	Pager
+1 800 404 0375	Pager
+1 800 404 0378	SkyTel Pager
+1 800 404 0379	SkyTel 2-Way
+1 800 404 0380	Joe Shmo’s SkyTel Pager
+1 800 404 0382	Some SkyTel System
+1 800 404 0384	Some SkyTel System
+1 800 404 0387	Some SkyTel System
+1 800 404 0388	AT&T Easy Reach 800
+1 800 404 0389	Some SkyTel System
+1 800 404 0391	SkyTel 2-Way
+1 800 404 0392	Century 21 Heritage Realty VMB
+1 800 404 0393	“Enter Telephone Number or Numeric Message”
+1 800 404 0394	Mailbox / Pager ?
+1 800 404 0396	Carrier, TTY
+1 800 404 0397	Pager
+1 800 404 0398	AT&T Easy Reach 800
+
+
+
+----------
+401-500
+----------
+
+1 800 404 0400	TDQ Personnel VMB
+1 800 404 0406	Carrier
+1 800 404 0410	Teleconferencing Inc VMB
+1 800 404 0411	DCN Wireless and DCN Internet
+1 800 404 0413	DJ Service VMB
+1 800 404 0417	SkyTel Messaging Service
+1 800 404 0418	Hair and Skin Care Service
+1 800 404 0419	“This Pin has been disconnected.”
+1 800 404 0422	some VMB
+1 800 404 0430	Carrier
+1 800 404 0436	Tempur-Pedic (asks for zip code)
+1 800 404 0437	Answering Machine
+1 800 404 0443	Tempur-Pedic (asks for zip code)
+1 800 404 0451	“Hello?”
+1 800 404 0452	Pacific Government Sales VMB
+1 800 404 0453	Orion Mortgage
+1 800 404 0460	AT&T Easy Reach
+1 800 404 0461	Some Company, Very Muffled
+1 800 404 0463	“Enter the PIN number you wish”
+1 800 404 0468	“Enter the PIN number you wish”
+1 800 404 0469	“Hello?”
+1 800 404 0471	A Lady’s Pager
+1 800 404 0476	“Enter the PIN number you wish”
+1 800 404 0482	Betts Filer?
+1 800 404 0483	Bioslim Corp.
+1 800 404 0485	Global Business Development Group
+1 800 404 0486	Carrier
+1 800 404 0487	“Enter the PIN number you wish”
+1 800 404 0488	Answering Machine
+1 800 404 0490	Psykloid Company
+
+
+----------
+401-500
+----------
+
+
+
+1 800 404 0502	Carrier
+
+
+
+
+
+
+------
+Misc
+------
+
+1 800 668 6887	Carrier
+1 800 308 2221	Carrier
+1 800 668 6337	Carrier
+1 800 668 6338	Carrier
+
+
+
+
+
+
+Wowee! More to come, later. Too tired now.
+
+
+
+	

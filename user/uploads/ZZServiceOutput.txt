@@ -1,0 +1,3 @@
+Server did not responded with IP or server name from 127.0.0.1
+Server address taken from reg:  DESK
+HookPrintAPIs.dll installed
